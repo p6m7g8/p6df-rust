@@ -1,0 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 1.0.1 (2021-03-24)
+
+
+### Bug Fixes
+
+* **api:** no symlink needed, brew not gh based ([#2](https://github.com/p6m7g8/p6df-rust/issues/2)) ([5113eed](https://github.com/p6m7g8/p6df-rust/commit/5113eed2054a8d8f53792ba174c08c33463b0330))
+
+
+* **README:** regen ([#1](https://github.com/p6m7g8/p6df-rust/issues/1)) ([cc9a0d1](https://github.com/p6m7g8/p6df-rust/commit/cc9a0d104e46c66b3f10a1206f23f998f87d33be))
+* **release:** adds version file; clears CHANGELOG.md ([cd83920](https://github.com/p6m7g8/p6df-rust/commit/cd839206d73a325fa8cd9701d83cb7e1f862f4cc))
